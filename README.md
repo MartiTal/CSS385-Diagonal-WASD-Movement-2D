@@ -10,6 +10,7 @@ https://martital.github.io/CSS385-Unity-Basics-Assignment/EnterToJump/
 https://martital.github.io/CSS385-Unity-Basics-Assignment/SpaceBarShoot3/
 
 ## Change Cursor to New Sprite
-
+https://martital.github.io/CSS385-Unity-Basics-Assignment/ChangedCursor/
 
 ## Enemy Following an Enemy
+https://martital.github.io/CSS385-Unity-Basics-Assignment/EnemyFollowingEnemy/
